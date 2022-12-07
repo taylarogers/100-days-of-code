@@ -9,3 +9,6 @@ Today was all about layouts! Spent some time learning and playing around with CS
 
 ## Day 3
 Javascript, Javascript and more Javascript! Today was spent learning the fundamentals of the language - not too much to write home about as it works in a similar way to a lot of other languages that I already know, so it was basically just about learning the syntax (which was also not complex, but you need to know the basics before you can really do anything impressive, so a necessary day in the grand scheme of things). All of the most common aspects of the language were covered, such as the possible types, the comparisons that you can make, how to create variables, how to control the flow of the code with conditional statements and logical operators, and also learning how to create functions and return values.
+
+## Day 4
+Got in some more Javascript today - had to finish covering the basics by looking over data structures in this new language. This included some arrays and how to create and call them, as well as objects (what they are and how to instantiate) among other things. Was also just a lot of "revision" of concepts I already knew in a knew language. Again a bit of a boring day, but can't wait to see what exciting challenges come in the next day of coding!
