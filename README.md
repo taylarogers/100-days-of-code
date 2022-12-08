@@ -12,3 +12,6 @@ Javascript, Javascript and more Javascript! Today was spent learning the fundame
 
 ## Day 4
 Got in some more Javascript today - had to finish covering the basics by looking over data structures in this new language. This included some arrays and how to create and call them, as well as objects (what they are and how to instantiate) among other things. Was also just a lot of "revision" of concepts I already knew in a knew language. Again a bit of a boring day, but can't wait to see what exciting challenges come in the next day of coding!
+
+## Day 5
+Finally moved on from syntax! Learnt about DOM manipulation today which was super interesting - all that syntax learning finally paying off! Focused on the different types of selectors and events that you can have, and how to put those events into action. It creates really responsive websites and allows you to expand the capabailities of your basic website - such power behind so few lines of code. All in all, a very interesting and educational day - excited to dive deeper into this topic.
