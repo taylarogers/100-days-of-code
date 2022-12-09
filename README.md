@@ -15,3 +15,6 @@ Got in some more Javascript today - had to finish covering the basics by looking
 
 ## Day 5
 Finally moved on from syntax! Learnt about DOM manipulation today which was super interesting - all that syntax learning finally paying off! Focused on the different types of selectors and events that you can have, and how to put those events into action. It creates really responsive websites and allows you to expand the capabailities of your basic website - such power behind so few lines of code. All in all, a very interesting and educational day - excited to dive deeper into this topic.
+
+## Day 6
+A great day of putting what I've learnt so far into action. Today I created a background generator which uses all of my knowledge in CSS, HTML and Javascript (https://github.com/taylarogers/background-generator) - it was challenging for sure, but lovely to be able to create something with all of the knowledge that I have gained. The more you code, the better you get! So I just have to keep coding and creating new things and I'm sure I will get the hang of it in no time. Also looked up a bit on jQuery for interest's sake - was very intricate and I see why new technologies were created to make the process easier. Hoping to try out some more code tomorrow!
