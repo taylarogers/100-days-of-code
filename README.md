@@ -18,3 +18,6 @@ Finally moved on from syntax! Learnt about DOM manipulation today which was supe
 
 ## Day 6
 A great day of putting what I've learnt so far into action. Today I created a background generator which uses all of my knowledge in CSS, HTML and Javascript (https://github.com/taylarogers/background-generator) - it was challenging for sure, but lovely to be able to create something with all of the knowledge that I have gained. The more you code, the better you get! So I just have to keep coding and creating new things and I'm sure I will get the hang of it in no time. Also looked up a bit on jQuery for interest's sake - was very intricate and I see why new technologies were created to make the process easier. Hoping to try out some more code tomorrow!
+
+## Day 7
+A day full of battle with Javscript. Decided to put in some more practice with my new Javascript knowledge and create a to-do list that allows you to check items off the list, delete items and add new ones. This involved looking into some new Javascript features that I hadn't explored before. It took me a long time of fighting with my code, but I got everything working how I wanted it to and I feel like I have learnt a lot in the process. Happy to have made some more progress in mastering this new language.
