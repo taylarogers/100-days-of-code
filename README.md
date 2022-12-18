@@ -21,3 +21,6 @@ A great day of putting what I've learnt so far into action. Today I created a ba
 
 ## Day 7
 A day full of battle with Javscript. Decided to put in some more practice with my new Javascript knowledge and create a to-do list that allows you to check items off the list, delete items and add new ones. This involved looking into some new Javascript features that I hadn't explored before. It took me a long time of fighting with my code, but I got everything working how I wanted it to and I feel like I have learnt a lot in the process. Happy to have made some more progress in mastering this new language.
+
+## Day 8
+Today I carried on with some more work on my to-do list. I thought I would take the opportunity to practice my CSS as well and try to create something that I was proud of. I still have a lot to learn in terms of design, but the only way to get better is to practice more! Not completely happy with how it turned out, but hopefully I can come back to this once I have further developed my skills and see where I can make fixes.
