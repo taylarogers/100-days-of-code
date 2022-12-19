@@ -24,3 +24,6 @@ A day full of battle with Javscript. Decided to put in some more practice with m
 
 ## Day 8
 Today I carried on with some more work on my to-do list. I thought I would take the opportunity to practice my CSS as well and try to create something that I was proud of. I still have a lot to learn in terms of design, but the only way to get better is to practice more! Not completely happy with how it turned out, but hopefully I can come back to this once I have further developed my skills and see where I can make fixes.
+
+## Day 9
+I took the time today to look into some more advanced concepts of Javascript. Such as a lot of the new formatting available for use in new versions of ECMAScript. Nothing really to show for the day as I was just looking into things that will be integral in my further learning of the language. Excited to dive deeper into this concept.
