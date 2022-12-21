@@ -27,3 +27,6 @@ Today I carried on with some more work on my to-do list. I thought I would take 
 
 ## Day 9
 I took the time today to look into some more advanced concepts of Javascript. Such as a lot of the new formatting available for use in new versions of ECMAScript. Nothing really to show for the day as I was just looking into things that will be integral in my further learning of the language. Excited to dive deeper into this concept.
+
+## Day 10
+Furthering my knowledge of the complicated aspects of Javascript was the goal for today. I focused mainly on learning some advanced features and new ways to do arrays, objects and functions. What I found most particularly interesting was the concept of a "curried" function - I struggled to see the purpose of it at first, but after playing around with it a bit more I have now come to realise how useful it can be in certain circumstances. Keen to move onto some more interesting topics tomorrow.
