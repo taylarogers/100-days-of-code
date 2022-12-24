@@ -33,3 +33,6 @@ Furthering my knowledge of the complicated aspects of Javascript was the goal fo
 
 ## Day 11
 Today I did some revision on pass by value vs pass by reference. I have heard this so many times in my studies at this point, yet still just one of those things that I will always need to double check as I constantly confuse the two for each other. I also looked at some advanced loop features and some more new ECMAScript functionality and syntax. 
+
+## Day 12
+Lots and lots of practice coding was the tone for the day. I did a lot of exercises to solidify the new ECMAScript concepts that I have been learning about. It's all about getting accustomed to the new syntax and methods which would make coding easier. I feel a lot more confident in my knowledge about these concepts now. I also learnt about creating modules in Javascript and the benefits that using modules can bring to your coding. Looking forward to one more day of Javascript tomorrow.
