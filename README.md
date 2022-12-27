@@ -36,3 +36,6 @@ Today I did some revision on pass by value vs pass by reference. I have heard th
 
 ## Day 12
 Lots and lots of practice coding was the tone for the day. I did a lot of exercises to solidify the new ECMAScript concepts that I have been learning about. It's all about getting accustomed to the new syntax and methods which would make coding easier. I feel a lot more confident in my knowledge about these concepts now. I also learnt about creating modules in Javascript and the benefits that using modules can bring to your coding. Looking forward to one more day of Javascript tomorrow.
+
+## Day 13
+Today was filled with lots of important knowledge about how Javascript works. The understanding of Javascript as a "single-threaded language that can be non-blocking" was an important concept into today's investigations, and it was very interesting to learn about the connection and interactions between the callback queue and event loop that are used in the Javascript run-time environment to achieve this.
