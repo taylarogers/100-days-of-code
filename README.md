@@ -39,3 +39,6 @@ Lots and lots of practice coding was the tone for the day. I did a lot of exerci
 
 ## Day 13
 Today was filled with lots of important knowledge about how Javascript works. The understanding of Javascript as a "single-threaded language that can be non-blocking" was an important concept into today's investigations, and it was very interesting to learn about the connection and interactions between the callback queue and event loop that are used in the Javascript run-time environment to achieve this.
+
+## Day 14
+A day in review... literally. I took today to review a lot of important command line concepts - my skills have been a bit rusty and I keep having to google things that I have previously learnt, so just decided to take the day to refresh my brain and get back in the swing of using the terminal instead of the Github desktop application. I also looked into some new git commands to deal with branching and how to deal with forks, that I previously didn't know.
