@@ -42,3 +42,6 @@ Today was filled with lots of important knowledge about how Javascript works. Th
 
 ## Day 14
 A day in review... literally. I took today to review a lot of important command line concepts - my skills have been a bit rusty and I keep having to google things that I have previously learnt, so just decided to take the day to refresh my brain and get back in the swing of using the terminal instead of the Github desktop application. I also looked into some new git commands to deal with branching and how to deal with forks, that I previously didn't know.
+
+## Day 15
+Today I contributed to my first open source project! Nothing too serious or life-changing, you simply had to create a component that would be displayed on a website for people to access (of which I created a flipcard that flips when clicked), but it allowed me to learn about how you would work in a team and to get some practice in so that the concepts do not feel so foreign. It was a bit confusing looking at it from the outside, but once I actually sat down and contributed I felt like I understood how it worked. Overall a very valuable lesson.
