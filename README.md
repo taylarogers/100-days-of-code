@@ -45,3 +45,6 @@ A day in review... literally. I took today to review a lot of important command 
 
 ## Day 15
 Today I contributed to my first open source project! Nothing too serious or life-changing, you simply had to create a component that would be displayed on a website for people to access (of which I created a flipcard that flips when clicked), but it allowed me to learn about how you would work in a team and to get some practice in so that the concepts do not feel so foreign. It was a bit confusing looking at it from the outside, but once I actually sat down and contributed I felt like I understood how it worked. Overall a very valuable lesson.
+
+## Day 16
+NPM is such a valuable resource and I am so glad that I spent the day learning all about it. Today I just looked into what NPM was and how it is beneficial. I also started messing around with installing some of the packages that NPM offers. It was very interesting to learn how this all works and I know all the packages will come in very handy in upcoming projects.
