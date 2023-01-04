@@ -48,3 +48,6 @@ Today I contributed to my first open source project! Nothing too serious or life
 
 ## Day 16
 NPM is such a valuable resource and I am so glad that I spent the day learning all about it. Today I just looked into what NPM was and how it is beneficial. I also started messing around with installing some of the packages that NPM offers. It was very interesting to learn how this all works and I know all the packages will come in very handy in upcoming projects.
+
+## Day 17
+Today I did some coding challenges on Hacker Earth. I wanted to refresh my Java knowledge a bit so I'm trying to do a couple challenges to make sure my brain isn't completely forgetting the language. Nothing to report on - I think I got through 3 today which I am happy with.
