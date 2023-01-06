@@ -51,3 +51,6 @@ NPM is such a valuable resource and I am so glad that I spent the day learning a
 
 ## Day 17
 Today I did some coding challenges on Hacker Earth. I wanted to refresh my Java knowledge a bit so I'm trying to do a couple challenges to make sure my brain isn't completely forgetting the language. Nothing to report on - I think I got through 3 today which I am happy with.
+
+## Day 18
+I did some more coding challenges on Hacker Earth today. I feel like I am starting to get back into the swing of thngs with Java - it's difficult sometimes to switch between langauges and not get confused so I think it is always important to go back and do some revision every now and then so that your brain doesn't get too clouded.
