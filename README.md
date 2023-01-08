@@ -54,3 +54,6 @@ Today I did some coding challenges on Hacker Earth. I wanted to refresh my Java 
 
 ## Day 18
 I did some more coding challenges on Hacker Earth today. I feel like I am starting to get back into the swing of thngs with Java - it's difficult sometimes to switch between langauges and not get confused so I think it is always important to go back and do some revision every now and then so that your brain doesn't get too clouded.
+
+## Day 19
+Finally feel like I'm satisfied with my revision of Java. Tried out a couple more problems today and I feel like I am at a point where I can continue on in my studies of web development without feeling like I have lost touch with Java.
